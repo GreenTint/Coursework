@@ -1,0 +1,78 @@
+Role: Graduate Data Scientist / Junior Data Analyst / Data Science Intern
+
+Step 1: Example Job Postings 
+Undergraduate Data Science Placement– 
+
+Graduate Data Analyst–
+
+Data Science Internship – 
+
+Step 2 & 3: Company Fit Summary 
+Company 1: LexisNexis Risk Solutions
+Company Fit Summary:
+ LexisNexis Risk Solutions is a strong fit for a data science career as it focuses heavily on data analytics, machine learning, and large-scale data processing to support risk management, fraud detection, and security. The company’s emphasis on ethical data use and advanced analytics aligns well with a data scientist’s role, offering good opportunities for skill development and real-world impact.
+Company 2: Grayce
+Company Fit Summary:
+ Grayce is a good fit for an entry-level data science career as it specialises in developing early-career talent through structured training and placements with major organisations. Its focus on professional development, mentoring, and exposure to real business problems makes it well suited for recent graduates looking to build practical data skills in a supportive environment.
+Company 3: UK National Audit Office (NAO)
+Company Fit Summary:
+ The UK National Audit Office is a strong fit for data-focused graduates because it uses data analysis to support public sector accountability, financial audits, and value-for-money assessments. The organisation offers meaningful work with social impact, a collaborative environment, and opportunities to develop analytical, statistical, and reporting skills. It is especially suitable if you value public service, structured training, and long-term career development.
+
+
+
+Step 4: Skills Gap Analysis (Data Science)
+Required Skill / Qualification
+I Have This Skill
+Evidence / Example
+How to Develop
+Python (Pandas, NumPy)
+Developing
+University coursework
+Kaggle projects, practice notebooks
+Data cleaning & preprocessing
+Developing
+Small academic datasets
+Real-world datasets (Kaggle, UCI)
+SQL
+No
+N/A
+Online SQL labs & practice
+Statistics & probability
+Yes
+University modules
+Apply to real datasets
+Data visualisation
+Developing
+Matplotlib / basic charts
+Learn Seaborn, Tableau
+Machine learning basics
+Developing
+Intro ML coursework
+Scikit-learn projects
+Communication of insights
+No
+N/A
+Write data reports & dashboards
+
+
+Short Action Plan (Top 3 Skills to Develop)
+Strengthen Python for data analysis and ML (Pandas, Scikit-learn)
+
+
+Gain hands-on project experience (Kaggle, real datasets, GitHub)
+
+
+Improve data storytelling and visualisation skills
+
+
+
+CIA Triad Connection (Brief)
+In data science, Confidentiality is critical when handling personal or sensitive datasets, Integrity ensures models are trained on accurate data, and Availability ensures data pipelines and analytics systems remain accessible.
+
+
+Joint Reflection and Final Summary
+After comparing our chosen career paths and skills gap analyses, we found that although our target roles differ slightly, we share many of the same development needs. Both of us identified Python programming, SQL proficiency, and stronger data visualisation skills as key areas for improvement. We also recognised that practical experience such as working with real datasets, completing online courses, and developing small projects would help us build confidence and demonstrate ability to employers. Through discussion, we each identified a unique strength the other brings, such as strong communication skills or analytical thinking, which could help us stand out in competitive data science roles. The conversation gave us a clearer understanding of our readiness for the job market and how university modules, workshops, and extracurricular activities can support our progress.
+This seminar also reinforced how structured reflection and peer discussion can help us understand industry expectations and identify realistic next steps. Overall, the activity helped us refine our development plans and strengthen our confidence in working toward our target careers.
+
+Additional Reflection:
+This exercise highlighted how data science skills increasingly intersect with cybersecurity, particularly in areas such as fraud detection, risk analysis, and secure data handling. Understanding confidentiality, integrity, and availability in a practical career context helped reinforce the importance of ethical data use and secure system design within analytical roles.

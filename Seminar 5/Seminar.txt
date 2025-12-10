@@ -1,0 +1,1 @@
+For Week 05, I installed and used Wapiti to scan an approved vulnerable web application. I reviewed the generated vulnerability report and analysed the identified web application vulnerabilities, gaining an understanding of both the value and the limitations of automated vulnerability scanning tools within a web security assessment.
