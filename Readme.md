@@ -103,6 +103,3 @@ All reflections are also collected in `seminar.txt`.
 
 ---
 
-# ✔ Contact
-For any issues accessing the portfolio, contact me via university email.
-
