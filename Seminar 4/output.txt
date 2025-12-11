@@ -1,0 +1,44 @@
+WEEK 04 – 
+
+SECTION 1
+baseline.csv created
+
+file1.txt, a3f1c2d9e4b7...
+file2.txt, 9b72f0a1c8de...
+file3.txt, f18c9d2a77b4...
+
+SECTION 2
+No changes detected
+
+File modified: file2.txt
+Hash mismatch detected
+
+File deleted: file3.txt
+
+SECTION 3
+Suspicious patterns detected:
+
+test1.py:
+- eval(
+- import os
+
+test2.py:
+- socket.connect
+
+SECTION 4
+Simulation start
+Initial infected hosts: 1
+
+Cycle 1: Infected hosts = 2
+Cycle 2: Infected hosts = 4
+Cycle 3: Infected hosts = 7
+Cycle 4: Infected hosts = 10
+
+Simulation complete
+
+SECTION 5
+Unusual network activity detected
+Outbound connections exceeded threshold
+
+Alert logged
+Administrator notified

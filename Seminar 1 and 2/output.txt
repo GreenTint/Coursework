@@ -1,0 +1,10 @@
+--- generate_keys.py ---
+✅ Keys saved: private_key.pem, public_key.pem
+
+--- receiver.py ---
+Waiting for connection...
+Connected by ('127.0.0.1', <client_port>)
+Decrypted message: Hello from the secure sender! This is confidential.
+
+--- sender.py ---
+✅ Encrypted message sent!

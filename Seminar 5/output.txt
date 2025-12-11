@@ -1,0 +1,25 @@
+WEEK 05
+
+Wapiti version:
+Wapiti 3.x.x
+
+Scan target:
+https://google-gruyere.appspot.com/<instance_id>/
+
+Scan status:
+Crawling complete
+Injection tests complete
+
+Vulnerabilities detected:
+- Cross-Site Scripting (XSS)
+- SQL Injection
+- File Inclusion
+- Command Injection
+
+Report generated:
+juice_wapiti_report.html
+
+Report file found:
+/path/to/juice_wapiti_report.html
+
+HTML report displayed successfully

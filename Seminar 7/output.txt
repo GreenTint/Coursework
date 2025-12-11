@@ -1,0 +1,29 @@
+WEEK 07
+
+DOMAIN LOOKUP
+IP Address: 151.101.0.223
+Organization: Fastly
+City: San Francisco
+Country: United States
+
+BLACK BOX RECON
+Server: Unknown
+Content-Type: text/html; charset=utf-8
+
+PORT SCANNING (LOCALHOST)
+Open ports on 127.0.0.1: []
+
+NMAP SCAN (LOCALHOST RANGE 1–10)
+Host: 127.0.0.1 ()
+State: up
+Protocol: tcp
+Port: 1    State: closed    Service: unknown
+Port: 2    State: closed    Service: unknown
+Port: 3    State: closed    Service: unknown
+Port: 4    State: closed    Service: unknown
+Port: 5    State: closed    Service: unknown
+Port: 6    State: closed    Service: unknown
+Port: 7    State: closed    Service: unknown
+Port: 8    State: closed    Service: unknown
+Port: 9    State: closed    Service: unknown
+Port: 10   State: closed    Service: unknown

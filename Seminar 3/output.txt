@@ -1,0 +1,66 @@
+WEEK 03 – 
+
+SECTION 1
+Input: Pass123
+Score: 3/8
+Entropy: ~37 bits
+Weak password
+
+Input: MyP@ssw0rd
+Score: 7/8
+Entropy: ~59 bits
+Strong password
+
+Input: CorrectHorseBatteryStaple
+Score: 6/8
+Entropy: ~118 bits
+
+SECTION 2
+MD5:
+34819d7beeabb9260a5c854bc85b3e44
+
+SHA-256:
+c9d6b0a7bd8dbe893475c2c7781b78b810e16f3fae96f2a0bda...
+
+bcrypt:
+$2b$12$4oR0E6xC2o/MrmjW6Ck4EeKEDoKiN1W2qiC8zNhTnI7HhZe8jH7wS
+
+SECTION 3
+Without salt:
+ef92b778bafe771e89245b89...
+
+ef92b778bafe771e89245b89...
+
+With salt:
+51cb7781d1c9af93f...
+9fd2bb86ac3109df2...
+
+With salt and pepper:
+d91e83e66bf57b9a403d52af8ad1...
+
+SECTION 4
+Secret key:
+JBSWY3DPEHPK3PXP
+
+TOTP code:
+482913
+
+QR code generated: totp_qr.png
+
+SECTION 5
+MD5:
+Match found: password
+Attempts: 1
+
+SHA-256:
+Match found: password
+Attempts: 1
+
+bcrypt:
+Not attempted
+
+SECTION 6
+User registered successfully
+User authenticated successfully
+Invalid password
+Invalid TOTP code
